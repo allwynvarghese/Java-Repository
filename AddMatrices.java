@@ -34,6 +34,7 @@ public class AddMatrices {
 				first[c][d] = scan.nextInt();
 			}
 		}
+		//test comment
 		
 		System.out.println("Enter the elements of the 2nd matrix: ");
 		for(c = 0; c< rows; c++) {
