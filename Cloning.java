@@ -15,6 +15,7 @@ public class Cloning implements Cloneable{
 		System.out.println("stdNo: "+ stdNo + " , " + "stdName: "+ stdName);
 	}
 	
+// just a comment
 	protected Object cloner() throws CloneNotSupportedException {
 		
 		return super.clone();
